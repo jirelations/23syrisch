@@ -1,29 +1,10 @@
 ---
 references:
-- id: aphrahatUnterweisungen1991a
+- id: aphrahat11UeberBeschneidung1991a
   author:
     - literal: Aphrahat
-  citation-key: aphrahatUnterweisungen1991a
+  citation-key: aphrahat11UeberBeschneidung1991a
   collection-title: Unterweisungen
-  editor:
-    - family: Bruns
-      given: Peter
-  event-place: Freiburg
-  ISBN: 978-3-451-22106-4
-  issued:
-    - year: 1991
-  language: de
-  publisher: Herder
-  publisher-place: Freiburg
-  title: Unterweisungen
-  type: book
-  volume: '2'
-
-- id: bruns11UeberBeschneidung1991a
-  citation-key: bruns11UeberBeschneidung1991a
-  collection-title: Unterweisungen
-  container-author:
-    - literal: Aphrahat
   container-title: Unterweisungen
   editor:
     - family: Bruns
@@ -40,11 +21,11 @@ references:
   type: chapter
   volume: '2'
 
-- id: bruns12UeberPascha1991
-  citation-key: bruns12UeberPascha1991
-  collection-title: Unterweisungen
-  container-author:
+- id: aphrahat12UeberPascha1991a
+  author:
     - literal: Aphrahat
+  citation-key: aphrahat12UeberPascha1991a
+  collection-title: Unterweisungen
   container-title: Unterweisungen
   editor:
     - family: Bruns
@@ -63,11 +44,11 @@ references:
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/02+Aphrahat+-+1991+-+Ueber+das+Pascha.pdf
   volume: '2'
 
-- id: bruns13UeberSabbat1991a
-  citation-key: bruns13UeberSabbat1991a
-  collection-title: Unterweisungen
-  container-author:
+- id: aphrahat13UeberSabbat1991a
+  author:
     - literal: Aphrahat
+  citation-key: aphrahat13UeberSabbat1991a
+  collection-title: Unterweisungen
   container-title: Unterweisungen
   editor:
     - family: Bruns
@@ -82,5 +63,24 @@ references:
   publisher-place: Freiburg
   title: 13. Über den Sabbat
   type: chapter
+  volume: '2'
+
+- id: aphrahatUnterweisungen1991a
+  author:
+    - literal: Aphrahat
+  citation-key: aphrahatUnterweisungen1991a
+  collection-title: Unterweisungen
+  editor:
+    - family: Bruns
+      given: Peter
+  event-place: Freiburg
+  ISBN: 978-3-451-22106-4
+  issued:
+    - year: 1991
+  language: de
+  publisher: Herder
+  publisher-place: Freiburg
+  title: Unterweisungen
+  type: book
   volume: '2'
 ...
