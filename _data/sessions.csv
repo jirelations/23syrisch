@@ -1,89 +1,89 @@
 ﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,17.10,2023-10-17-1.md,,,1. ,1,,1-,,,[1],"---
+,1,17.10,2023-10-17-1.md,,Einführung,1. Einführung,1,,1-Einführung,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,24.10,2023-10-24-2.md,,,2. ,2,,2-,,,[2],"---
+,2,24.10,2023-10-24-2.md,,Aphrahat,2. Aphrahat,2,,2-Aphrahat,,,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,31.10,2023-10-31-3.md,,,3. ,3,,3-,,,[3],"---
+,3,31.10,2023-10-31-3.md,,Edessa,3. Edessa,3,,3-Edessa,,,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,07.11,2023-11-07-4.md,,,4. ,4,,4-,,,[4],"---
+,4,07.11,2023-11-07-4.md,,Ephrem,4. Ephrem,4,,4-Ephrem,,,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,14.11,2023-11-14-5.md,,,5. ,5,,5-,,,[5],"---
+,5,14.11,2023-11-14-5.md,,Narsai,5. Narsai,5,,5-Narsai,,,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,21.11,2023-11-21-6.md,,,6. ,6,,6-,,,[6],"---
+,6,21.11,2023-11-21-6.md,,Jakob von Sarugh,6. Jakob von Sarugh,6,,6-Jakob-von-Sarugh,,,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,28.11,2023-11-28-7.md,,,7. ,7,,7-,,,[7],"---
+,7,28.11,2023-11-28-7.md,,Ishodad von Merw,7. Ishodad von Merw,7,,7-Ishodad-von-Merw,,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,05.12,2023-12-05-8.md,,,8. ,8,,8-,,,[8],"---
+,8,05.12,2023-12-05-8.md,,Theodor bar Koni,8. Theodor bar Koni,8,,8-Theodor-bar-Koni,,,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,12.12,2023-12-12-9.md,,,9. ,9,,9-,,,[9],"---
+,9,12.12,2023-12-12-9.md,,Timotheus,9. Timotheus,9,,9-Timotheus,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,19.12,2023-12-19-10.md,,,10. ,10,,10-,,,[10],"---
+,10,19.12,2023-12-19-10.md,,Dionysius bar Salibi,10. Dionysius bar Salibi,10,,10-Dionysius-bar-Salibi,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,09.01,2024-01-09-11.md,,,11. ,11,,11-,,,[11],"---
+,11,09.01,2024-01-09-11.md,,Abdisho bar Brikha,11. Abdisho bar Brikha,11,,11-Abdisho-bar-Brikha,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,16.01,2024-01-16-12.md,,,12. ,12,,12-,,,[12],"---
+,12,16.01,2024-01-16-12.md,,Bar Ebroyo,12. Bar Ebroyo,12,,12-Bar-Ebroyo,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,23.01,2024-01-09-13.md,,,13. ,13,,13-,,,[13],"---
+,13,23.01,2024-01-09-13.md,,Malabar,13. Malabar,13,,13-Malabar,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,30.01,2024-01-16-14.md,,,14. ,14,,14-,,,[14],"---
+,14,30.01,2024-01-16-14.md,,Syrisches Christentum Heute,14. Syrisches Christentum Heute,14,,14-Syrisches-Christentum-Heute,,,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
 ---"
-,15,06.02,2024-01-23-15.md,,,15. ,15,,15-,,,[15],"---
+,15,06.02,2024-01-23-15.md,,"Abschluss, Prüfungsvorbereitung","15. Abschluss, Prüfungsvorbereitung",15,,"15-Abschluss,-Prüfungsvorbereitung",,,[15],"---
 layout: post
 session: 15
 tags: [15]
