@@ -83,4 +83,103 @@ references:
   title: Unterweisungen
   type: book
   volume: '2'
+
+- id: illertDoctrinaAddai2007
+  abstract: >-
+    A collection of early Christian texts concerning the Abgar Letters, the
+    Teaching of Addai, and the Holy Face of Edessa with accompanying German
+    translations
+  call-number: BS2900.A2 A1 2007
+  citation-key: illertDoctrinaAddai2007
+  collection-number: '45'
+  collection-title: Fontes Christiani
+  container-title: >-
+    Doctrina Addai: De imagine Edessena = Die Abgarlegende. Das Christusbild von
+    Edessa
+  editor:
+    - family: Illert
+      given: Martin
+  event-place: Turnhout
+  ISBN: 978-2-503-52113-8 978-2-503-52114-5
+  issued:
+    - year: 2007
+  language: ger grc lat
+  note: 'OCLC: ocn213458452'
+  page: 132-177
+  publisher: Brepols
+  publisher-place: Turnhout
+  source: Library of Congress ISBN
+  title: Doctrina Addai [DE]
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB195423070
+
+- id: phillipsDoctrineAddai1876
+  accessed:
+    - year: 2023
+      month: 10
+      day: 24
+  citation-key: phillipsDoctrineAddai1876
+  container-title: The doctrine of Addai, the Apostle
+  editor:
+    - family: Phillips
+      given: George
+  event-place: London
+  issued:
+    - year: 1876
+  language: eng
+  note: 'OCLC: 903881901'
+  page: 1-50
+  publisher: Trübner & Co.
+  publisher-place: London
+  source: Open WorldCat
+  title: The doctrine of Addai [EN]
+  type: chapter
+  URL: https://archive.org/details/doctrineofaddaia00phil/page/1
+
+- id: waltersDoctrinaAddai2021
+  author:
+    - family: Walters
+      given: J. Edward
+  call-number: BR60 .E275 2021
+  citation-key: waltersDoctrinaAddai2021
+  container-title: 'Eastern Christianity: A reader'
+  editor:
+    - family: Walters
+      given: J. Edward
+  event-place: Grand Rapids, Michigan
+  ISBN: 978-0-8028-7686-7
+  issued:
+    - year: 2021
+  language: eng
+  page: 22-35
+  publisher: William. B. Eerdmans Publishing Company
+  publisher-place: Grand Rapids, Michigan
+  source: Library of Congress ISBN
+  title: The *Doctrina Addai* \[EN]
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB492699232
+
+- id: waltersEasternChristianityReader2021b
+  abstract: >-
+    "A collection of significant Syriac, Armenian, Georgian, Arabic, Coptic, and
+    Ethiopic Christian texts in English translation, along with informative
+    introductions"--
+  call-number: BR60 .E275 2021
+  citation-key: waltersEasternChristianityReader2021b
+  editor:
+    - family: Walters
+      given: J. Edward
+  event-place: Grand Rapids, Michigan
+  ISBN: 978-0-8028-7686-7
+  issued:
+    - year: 2021
+  language: eng
+  number-of-pages: '423'
+  publisher: William. B. Eerdmans Publishing Company
+  publisher-place: Grand Rapids, Michigan
+  source: Library of Congress ISBN
+  title: 'Eastern Christianity: A reader'
+  title-short: Eastern Christianity
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB492699232
 ...
