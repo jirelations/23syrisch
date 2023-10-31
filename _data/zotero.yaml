@@ -84,6 +84,47 @@ references:
   type: book
   volume: '2'
 
+- id: beckCarmen1961
+  author:
+    - family: Beck
+      given: Edmund
+  citation-key: beckCarmen1961
+  collection-number: 93 / 219
+  collection-title: >-
+    Corpus scriptorum Christianorum orientalium, Scriptores Syri / Corpus
+    scriptorum Christianorum orientalium
+  container-title: Des Heiligen Ephraem des Syrers Carmina Nisibena I
+  event-place: Louvain
+  issued:
+    - year: 1961
+  language: de
+  publisher: Sec. du Corpus SCO
+  publisher-place: Louvain
+  title: Carmen X
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB028346823
+  volume: 1 [Übers.]
+
+- id: beckSermoReprehensioneII1970
+  author:
+    - family: Beck
+      given: Edmund
+  citation-key: beckSermoReprehensioneII1970
+  collection-number: 131 / 306
+  collection-title: >-
+    Corpus scriptorum Christianorum orientalium, Scriptores Syri / Corpus
+    scriptorum Christianorum orientalium
+  container-title: Des Heiligen Ephraem des Syrers Sermones I
+  event-place: Louvain
+  issued:
+    - year: 1970
+  language: de
+  publisher: Secr. du CorpusSCO
+  publisher-place: Louvain
+  title: Sermo de Reprehensione II; Sermo de Reprehensione III
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB028348907
+
 - id: illertDoctrinaAddai2007
   abstract: >-
     A collection of early Christian texts concerning the Abgar Letters, the
@@ -135,6 +176,30 @@ references:
   title: The doctrine of Addai [EN]
   type: chapter
   URL: https://archive.org/details/doctrineofaddaia00phil/page/1
+
+- id: scott`AfremNisibisNisibeneforthcoming
+  author:
+    - family: Scott
+      given: Colby
+  citation-key: scott`AfremNisibisNisibeneforthcoming
+  container-title: >-
+    Global Christian Texts: Readings in Premodern Christianity from African,
+    Middle Eastern, and Asian Languages
+  editor:
+    - family: Bantu
+      given: Vince
+    - family: Gibson
+      given: Nathan P.
+  event-place: Oakland
+  issued:
+    - literal: '[forthcoming]'
+  language: en
+  publisher: University of California Press
+  publisher-place: Oakland
+  title: ʾAfrem of Nisibis, Nisibene Hymn 10 and Verse Homilies of Reproof 2 and 3
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/04+-+Scott+-+%CA%BEAfrem+of+Nisibis%2C+Nisibene+Hymn+10+and+Verse+Homi.pdf
 
 - id: waltersDoctrinaAddai2021
   author:

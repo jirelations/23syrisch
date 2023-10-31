@@ -1,5 +1,5 @@
 ﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,17.10,2023-10-17-1.md,,Einführung,1. Einführung,1,,1-Einführung,,,[1],"---
+,1,17.10,2023-10-17-1.md,,Einführung,1. Einführung,1,cover.jpg,1-Einführung,,,[1],"---
 layout: post
 session: 1
 tags: [1]
@@ -11,13 +11,13 @@ session: 2
 tags: [2]
 level: overview
 ---"
-,3,31.10,2023-10-31-3.md,,Edessa,3. Edessa,3,,3-Edessa,,,[3],"---
+,3,31.10,2023-10-31-3.md,,Edessa,3. Edessa,3,edessa.jpg,3-Edessa,"[waltersDoctrinaAddai2021, illertDoctrinaAddai2007, phillipsDoctrineAddai1876]",Explain several ways Edessa is significant in the early history of Syriac Christianity.,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,07.11,2023-11-07-4.md,,Ephrem,4. Ephrem,4,,4-Ephrem,,,[4],"---
+,4,07.11,2023-11-07-4.md,,Ephrem,4. Ephrem,4,ephrem.jpg,4-Ephrem,"[scott`AfremNisibisNisibeneforthcoming, beckCarmen1961, beckSermoReprehensioneII1970]",,[4],"---
 layout: post
 session: 4
 tags: [4]

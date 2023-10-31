@@ -1,0 +1,1 @@
+Jesus' resurrection. Illumination in London, British Library, Add MS 7170 (1216–1240 CE, Syriac Lectionary). Public domain. <https://blogs.bl.uk/asian-and-african/2020/04/qom-mashiho.html>.
