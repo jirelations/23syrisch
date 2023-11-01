@@ -102,7 +102,8 @@ references:
   publisher-place: Louvain
   title: Carmen X
   type: chapter
-  URL: https://ubffm.hds.hebis.de/Record/HEB028346823
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/04+-+Beck+-+1961+-+Carmen+X.pdf
   volume: 1 [Übers.]
 
 - id: beckSermoReprehensioneII1970
@@ -124,6 +125,25 @@ references:
   title: Sermo de Reprehensione II; Sermo de Reprehensione III
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB028348907
+
+- id: healeyAramaicInscriptionsDocuments2010
+  author:
+    - family: Healey
+      given: John F.
+  citation-key: healeyAramaicInscriptionsDocuments2010
+  event-place: Oxford
+  issued:
+    - year: 2010
+  language: en
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: >-
+    Aramaic Inscriptions and Documents of the Roman Period : Aramaic
+    Inscriptions and Documents of the Roman Period
+  title-short: Aramaic Inscriptions and Documents of the Roman Period
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D472287
 
 - id: illertDoctrinaAddai2007
   abstract: >-
@@ -200,6 +220,20 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/04+-+Scott+-+%CA%BEAfrem+of+Nisibis%2C+Nisibene+Hymn+10+and+Verse+Homi.pdf
+
+- id: segalEdessaBlessedCity1970b
+  author:
+    - family: Segal
+      given: J. B.
+  citation-key: segalEdessaBlessedCity1970b
+  issued:
+    - year: 1970
+  publisher: Clarendon Pr.
+  title: 'Edessa: The blessed city'
+  title-short: Edessa
+  type: book
+  URL: >-
+    https://ubffm.hds.hebis.de/Record/HEB092637914https://ubffm.hds.hebis.de/Record/HEB092637914
 
 - id: waltersDoctrinaAddai2021
   author:
