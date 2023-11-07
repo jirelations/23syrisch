@@ -126,6 +126,44 @@ references:
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB028348907
 
+- id: feldmannSughithaEngelGabriel1896a
+  citation-key: feldmannSughithaEngelGabriel1896a
+  container-title: >-
+    Syrische Wechsellieder von Narses. Ein Beitrag zur altchristlichen syrischen
+    Hymnologie, nach einer Handschrift der Königlichen Bibliothek in Berlin
+  editor:
+    - family: Feldmann
+      given: Franz
+  event-place: Leipzig
+  issued:
+    - year: 1896
+  language: de
+  page: 12-24 [deutsch]
+  publisher: Otto Harrassowitz
+  publisher-place: Leipzig
+  title: >-
+    Sûghîthá. Der Engel (Gabriel) und Maria und Sûghîthá. Johannes und Unser
+    Herr
+  type: chapter
+  URL: https://archive.org/details/syrischewechsel00feldgoog/page/n29
+
+- id: feldmannSyrischeWechselliederNarses1896b
+  citation-key: feldmannSyrischeWechselliederNarses1896b
+  editor:
+    - family: Feldmann
+      given: Franz
+  event-place: Leipzig
+  issued:
+    - year: 1896
+  language: de
+  publisher: Otto Harrassowitz
+  publisher-place: Leipzig
+  title: >-
+    Syrische Wechsellieder von Narses. Ein Beitrag zur altchristlichen syrischen
+    Hymnologie, nach einer Handschrift der Königlichen Bibliothek in Berlin
+  type: book
+  URL: https://archive.org/details/syrischewechsel00feldgoog
+
 - id: healeyAramaicInscriptionsDocuments2010
   author:
     - family: Healey
