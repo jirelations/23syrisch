@@ -126,6 +126,106 @@ references:
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB028348907
 
+- id: bickelSechsHomilienHeiligen1867a
+  citation-key: bickelSechsHomilienHeiligen1867a
+  editor:
+    - family: Bickel
+      given: Gustav
+  event-place: Bonn
+  issued:
+    - year: 1867
+  language: de
+  publisher: Henry
+  publisher-place: Bonn
+  title: >-
+    Sechs Homilien des Heiligen Jacob von Sarug. Aus syrischen Handschriften
+    übersetzt
+  type: book
+  URL: https://archive.org/details/ausgewhltegedic00isaagoog
+
+- id: biesenSimpleBoldEphrem2014
+  abstract: >-
+    Ephrem the Syrian is known as one of the greatest Christian poets and as a
+    unique author whose mode of thought is usually described as “symbolic.” In
+    this work, Kees den Biesen explores the literary, intellectual, and
+    theological mechanisms at work in Ephrem’s writings with the specific aim of
+    identifying the exact nature of his “symbolic thought” and evaluating its
+    contemporary relevance. Den Biesen elaborates a comprehensive approach that
+    integrates a variety of methods into a genuinely theological methodology. He
+    then proposes his own comprehensive understanding of the nature and merits
+    of Ephrem’s symbolic thought.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 22
+  author:
+    - family: Biesen
+      given: Kees
+      dropping-particle: den
+  citation-key: biesenSimpleBoldEphrem2014
+  DOI: 10.31826/9781463236335
+  ISBN: 978-1-4632-3633-5
+  issued:
+    - year: 2014
+      month: 6
+      day: 18
+  language: en
+  publisher: Gorgias Press
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: 'Simple and Bold: Ephrem’s Art of Symbolic Thought'
+  title-short: Simple and Bold
+  type: book
+  URL: https://www.degruyter.com/document/doi/10.31826/9781463236335/html
+
+- id: brockLuminousEyeSpiritual1992b
+  abstract: >-
+    209 p. ; 22 cm; Based on a series of lectures given by the author at the
+    Pontifical Oriental Institute in Rome, April 1984; Originally published:
+    Rome : Center for Indian and Inter-Religious Studies, 1985; Includes
+    bibliographical references (p. 183-193) and indexes; 94 10 13
+  accessed:
+    - year: 2023
+      month: 11
+      day: 22
+  author:
+    - family: Brock
+      given: Sebastian P.
+  citation-key: brockLuminousEyeSpiritual1992b
+  event-place: Kalamazoo, MI.
+  ISBN: 978-0-87907-624-5
+  issued:
+    - year: 1992
+  language: eng
+  number-of-pages: '222'
+  publisher: Cistercian Publications
+  publisher-place: Kalamazoo, MI.
+  source: Internet Archive
+  title: 'The luminous eye: The spiritual world vision of Saint Ephrem'
+  title-short: The luminous eye
+  type: book
+  URL: http://archive.org/details/luminouseyespiri0000broc
+
+- id: elkhouryTypesSymbolsChurch2018
+  author:
+    - family: Elkhoury
+      given: Armando
+    - family: Bruns
+      given: Peter
+    - family: Griffith
+      given: Sidney
+  citation-key: elkhouryTypesSymbolsChurch2018
+  event-place: Eichstätt-Ingolstadt
+  issued:
+    - year: 2018
+  language: en
+  number-of-pages: Online-Ressource
+  publisher: Katholische Universität Eichstätt-Ingolstadt
+  publisher-place: Eichstätt-Ingolstadt
+  title: Types and symbols of the Church in the writings of Jacob of Sarug
+  type: book
+  URL: >-
+    https://opus4.kobv.de/opus4-ku-eichstaett/files/461/Types+and+Symbols+of+the+Church+in+the+Writings+of+Jacob+of+Sarug.pdf
+
 - id: feldmannSughithaEngelGabriel1896a
   citation-key: feldmannSughithaEngelGabriel1896a
   container-title: >-
@@ -163,6 +263,24 @@ references:
     Hymnologie, nach einer Handschrift der Königlichen Bibliothek in Berlin
   type: book
   URL: https://archive.org/details/syrischewechsel00feldgoog
+
+- id: fornessPreachingChristologyRoman2018
+  author:
+    - family: Forness
+      given: Philip Michael
+  citation-key: fornessPreachingChristologyRoman2018
+  event-place: Oxford
+  ISBN: 978-0-19-882645-3
+  issued:
+    - year: 2018
+  language: en
+  number-of-pages: x, 322 Seiten
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'Preaching Christology in the Roman Near East: A study of Jacob of Serugh'
+  title-short: Preaching Christology in the Roman Near East
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB438775473
 
 - id: healeyAramaicInscriptionsDocuments2010
   author:
@@ -235,6 +353,29 @@ references:
   type: chapter
   URL: https://archive.org/details/doctrineofaddaia00phil/page/1
 
+- id: schroterGedichtJakobSarug1847a
+  accessed:
+    - year: 2023
+      month: 11
+      day: 22
+  citation-key: schroterGedichtJakobSarug1847a
+  container-title: Zeitschriften der Deutschen Morgenländischen Gesellschaft
+  editor:
+    - family: Schröter
+      given: R.
+  issued:
+    - year: 1847
+  language: en
+  page: 321-377
+  source: menadoc.bibliothek.uni-halle.de
+  title: >-
+    Gedicht des Jakob von Sarug über den Palast, den der Apostel Thomas in
+    Indien baute
+  type: article-journal
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/05+-+Schröter+-+1847+-+Gedicht+des+Jakob+von+Sarug+über+den+Palast%2C+den+d.pdf
+  volume: '25'
+
 - id: scott`AfremNisibisNisibeneforthcoming
   author:
     - family: Scott
@@ -258,6 +399,30 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/04+-+Scott+-+%CA%BEAfrem+of+Nisibis%2C+Nisibene+Hymn+10+and+Verse+Homi.pdf
+
+- id: scottYaqubBishopSerughBatnanforthcominga
+  author:
+    - family: Scott
+      given: Colby
+  citation-key: scottYaqubBishopSerughBatnanforthcominga
+  container-title: >-
+    Global Christian Texts: Readings in Premodern Christianity from African,
+    Middle Eastern, and Asian Languages
+  editor:
+    - family: Bantu
+      given: Vince
+    - family: Gibson
+      given: Nathan P.
+  event-place: Oakland
+  issued:
+    - literal: '[forthcoming]'
+  language: en
+  publisher: University of California Press
+  publisher-place: Oakland
+  title: Yaʿqub, Bishop of Serugh-Batnan, A Funeral Homily (Memra 187)
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/05+-+Scott+-+Yaʿqub%2C+Bishop+of+Serugh-Batnan%2C+A+Funeral+Homily+.pdf
 
 - id: segalEdessaBlessedCity1970b
   author:
