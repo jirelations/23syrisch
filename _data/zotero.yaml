@@ -307,7 +307,8 @@ references:
   source: Internet Archive
   title: St. Luke, Books I-II
   type: chapter
-  URL: http://archive.org/details/ishodadofmervbis01daaduoft
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/07+-+Ishodad+-+Gibson+-+1911+-+St.+Luke%2C+Books+I-II.pdf
   volume: 1 (Translation)
 
 - id: healeyAramaicInscriptionsDocuments2010
