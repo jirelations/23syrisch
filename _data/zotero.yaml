@@ -282,6 +282,34 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB438775473
 
+- id: gibsonStLukeBooks1911
+  accessed:
+    - year: 2013
+      month: 8
+      day: 15
+  call-number: AJF-6559
+  citation-key: gibsonStLukeBooks1911
+  container-title: >-
+    The Commentaries of Isho'dad of Merv, Bishop of Hadatha (c. 850 A.D.) in
+    Syriac and English
+  editor:
+    - family: Gibson
+      given: Margaret Dunlop Smith
+  event-place: Cambridge
+  issued:
+    - year: 1911
+    - year: 0
+  language: eng
+  number-of-volumes: '3'
+  page: 146-160
+  publisher: University Press
+  publisher-place: Cambridge
+  source: Internet Archive
+  title: St. Luke, Books I-II
+  type: chapter
+  URL: http://archive.org/details/ishodadofmervbis01daaduoft
+  volume: 1 (Translation)
+
 - id: healeyAramaicInscriptionsDocuments2010
   author:
     - family: Healey
@@ -329,6 +357,38 @@ references:
   title: Doctrina Addai [DE]
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB195423070
+
+- id: ishodadhofmervCommentariesIshoDad1911a
+  accessed:
+    - year: 2013
+      month: 8
+      day: 15
+  author:
+    - literal: Isho'dadh of Merv
+  call-number: AJF-6559
+  citation-key: ishodadhofmervCommentariesIshoDad1911a
+  contributor:
+    - literal: Robarts - University of Toronto
+  event-place: Cambridge
+  issued:
+    - year: 1911
+    - year: 0
+  language: eng
+  number-of-pages: '344'
+  number-of-volumes: '3'
+  publisher: University Press
+  publisher-place: Cambridge
+  source: Internet Archive
+  title: >-
+    The Commentaries of Isho'dad of Merv, Bishop of Hadatha (c. 850 A.D.) in
+    Syriac and English
+  translator:
+    - family: Gibson
+      given: Margaret Dunlop Smith
+    - family: Harris
+      given: J. Rendel
+  type: book
+  URL: http://archive.org/details/ishodadofmervbis01daaduoft
 
 - id: phillipsDoctrineAddai1876
   accessed:
