@@ -205,6 +205,30 @@ references:
   type: book
   URL: http://archive.org/details/luminouseyespiri0000broc
 
+- id: buttsTheodoreBarKoni2021a
+  author:
+    - family: Butts
+      given: Aaron Michael
+  call-number: BR60 .E275 2021
+  citation-key: buttsTheodoreBarKoni2021a
+  container-title: 'Eastern Christianity: A reader'
+  editor:
+    - family: Walters
+      given: J. Edward
+  event-place: Grand Rapids, Michigan
+  ISBN: 978-0-8028-7686-7
+  issued:
+    - year: 2021
+  language: eng
+  page: 129-141
+  publisher: William. B. Eerdmans Publishing Company
+  publisher-place: Grand Rapids, Michigan
+  source: Library of Congress ISBN
+  title: Theodore bar Koni, *Scholion*, *Mēmrā 10*
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/08+-+Theodore+bar+Koni+-+Butts+-+2021+-+Theodore+bar+Koni%2C+Scholion%2C+Me%CC%84mra%CC%84+10i.pdf
+
 - id: elkhouryTypesSymbolsChurch2018
   author:
     - family: Elkhoury
