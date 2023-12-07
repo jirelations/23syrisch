@@ -306,6 +306,58 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB438775473
 
+- id: g.b.teuleKtabaEskolyon2010
+  accessed:
+    - year: 2023
+      month: 12
+      day: 6
+  author:
+    - family: G. B. Teule
+      given: Herman
+  citation-key: g.b.teuleKtabaEskolyon2010
+  container-title: Christian-Muslim Relations 600 - 1500
+  editor:
+    - family: Thomas
+      given: David
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 3
+      day: 24
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: (Ktābā d-)Eskolyon
+  type: chapter
+  URL: http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1877-8054_cmri_COM_23544
+
+- id: g.b.teuleTheodoreBarKoni2010
+  accessed:
+    - year: 2023
+      month: 12
+      day: 6
+  author:
+    - family: G. B. Teule
+      given: Herman
+  citation-key: g.b.teuleTheodoreBarKoni2010
+  container-title: Christian-Muslim Relations 600 - 1500
+  editor:
+    - family: Thomas
+      given: David
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 3
+      day: 24
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Theodore bar Koni (Konay)
+  type: chapter
+  URL: http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1877-8054_cmri_COM_23543
+
 - id: gibsonStLukeBooks1911
   accessed:
     - year: 2013
