@@ -1,85 +1,89 @@
-blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,2023/10/17,2023-10-17-1.md,,Einführung,"1. Einführung",1,cover.jpg,1-Einführung,,,[1],"---
+﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
+,1,17.10,2023-10-17-1.md,,Einführung,1. Einführung,1,cover.jpg,1-Einführung,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,2023/10/24,2023-10-24-2.md,,Aphrahat,"2. Aphrahat",2,aphrahat.jpg,2-Aphrahat,aphrahat12UeberPascha1991a,"Describe Aphrahat's view of Christians' relationship to Jewish observances.",[2],"---
+,2,24.10,2023-10-24-2.md,,Aphrahat,2. Aphrahat,2,aphrahat.jpg,2-Aphrahat,aphrahat12UeberPascha1991a,Describe Aphrahat's view of Christians' relationship to Jewish observances.,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,2023/10/31,2023-10-31-3.md,,Edessa,"3. Edessa",3,edessa.jpg,3-Edessa,"[waltersDoctrinaAddai2021, illertDoctrinaAddai2007, phillipsDoctrineAddai1876]","Explain several ways Edessa is significant in the early history of Syriac Christianity.",[3],"---
+,3,31.10,2023-10-31-3.md,,Edessa,3. Edessa,3,edessa.jpg,3-Edessa,"[waltersDoctrinaAddai2021, illertDoctrinaAddai2007, phillipsDoctrineAddai1876]",Explain several ways Edessa is significant in the early history of Syriac Christianity.,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,2023/11/07,2023-11-07-4.md,,Ephrem,"4. Ephrem",4,ephrem.jpg,4-Ephrem,"[scott`AfremNisibisNisibeneforthcoming, beckCarmen1961, beckSermoReprehensioneII1970]","Describe how Ephrem brought together poetry and scriptural exegesis in his songs and sermons.",[4],"---
+,4,07.11,2023-11-07-4.md,,Ephrem,4. Ephrem,4,ephrem.jpg,4-Ephrem,"[scott`AfremNisibisNisibeneforthcoming, beckCarmen1961, beckSermoReprehensioneII1970]",Describe how Ephrem brought together poetry and scriptural exegesis in his songs and sermons.,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,2023/11/21,2023-11-21-5.md,,Narsai,"5. Narsai",5,narsai-borg-sir-79-1v.jpg,5-Narsai,[feldmannSughithaEngelGabriel1896a],"1. Give some examples of Narsai's relationship to other literary and scriptural traditions. 2. Know where to look for Syriac lexical resources.",[5],"---
+,5,21.11,2023-11-21-5.md,,Narsai,5. Narsai,5,narsai-borg-sir-79-1v.jpg,5-Narsai,[feldmannSughithaEngelGabriel1896a],1. Give some examples of Narsai's relationship to other literary and scriptural traditions. 2. Know where to look for Syriac lexical resources.,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,2023/11/28,2023-11-28-6.md,,"Jakob von Sarugh","6. Jakob von Sarugh",6,jacob-serugh.webp,6-Jakob-von-Sarugh,"[bickelHomilieUeberDecke1867a, scottYaqubBishopSerughBatnanforthcominga]","Observe the use of contrast and metaphor in Jacob of Sarugh's writing.",[6],"---
+,6,28.11,2023-11-28-6.md,,Jakob von Sarugh,6. Jakob von Sarugh,6,jacob-serugh.webp,6-Jakob-von-Sarugh,"[bickelHomilieUeberDecke1867a, scottYaqubBishopSerughBatnanforthcominga]",Observe the use of contrast and metaphor in Jacob of Sarugh's writing.,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,2023/12/05,2023-12-05-7.md,,"Ishodad von Merw","7. Ishodad von Merw",7,kyz-kala.jpg,7-Ishodad-von-Merw,gibsonStLukeBooks1911,"Describe how Ishodad uses literary sources on both the literal and spiritual levels of his commentary.",[7],"---
+,7,05.12,2023-12-05-7.md,,Ishodad von Merw,7. Ishodad von Merw,7,kyz-kala.jpg,7-Ishodad-von-Merw,gibsonStLukeBooks1911,Describe how Ishodad uses literary sources on both the literal and spiritual levels of his commentary.,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,2023/12/12,2023-12-12-8.md,,"Theodor bar Koni","8. Theodor bar Koni",8,tigris.jpg,8-Theodor-bar-Koni,[buttsTheodoreBarKoni2021a],,[8],"---
+,8,12.12,2023-12-12-8.md,,Theodor bar Koni,8. Theodor bar Koni,8,tigris.jpg,8-Theodor-bar-Koni,[buttsTheodoreBarKoni2021a],Identify some of the important themes in early Christian-Muslim relations from the perspective of the Syriac communities.,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,2023/12/19,2023-12-19-9.md,,Timotheus,"9. Timotheus",9,,9-Timotheus,,,[9],"---
+,9,19.12,2023-12-19-9.md,,Timotheus,9. Timotheus,9,,9-Timotheus,,,[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,2024/01/09,2024-01-09-10.md,,"Dionysius bar Salibi","10. Dionysius bar Salibi",10,,10-Dionysius-bar-Salibi,,,[10],"---
+,10,09.01,2024-01-09-10.md,,Dionysius bar Salibi,10. Dionysius bar Salibi,10,,10-Dionysius-bar-Salibi,,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,2024/01/16,2024-01-16-11.md,,"Abdisho bar Brikha","11. Abdisho bar Brikha",11,,11-Abdisho-bar-Brikha,,,[11],"---
+,11,16.01,2024-01-16-11.md,,Abdisho bar Brikha,11. Abdisho bar Brikha,11,,11-Abdisho-bar-Brikha,,,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,2024/01/23,2024-01-23-12.md,,"Bar Ebroyo","12. Bar Ebroyo",12,,12-Bar-Ebroyo,,,[12],"---
+,12,23.01,2024-01-23-12.md,,Bar Ebroyo,12. Bar Ebroyo,12,,12-Bar-Ebroyo,,,[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,2024/01/30,2024-01-16-13.md,,Malabar,"13. Malabar",13,,13-Malabar,,,[13],"---
+,13,30.01,2024-01-16-13.md,,Malabar,13. Malabar,13,,13-Malabar,,,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,2024/02/06,2024-01-23-14.md,,"Syrisches Christentum Heute","14. Syrisches Christentum Heute",14,,14-Syrisches-Christentum-Heute,,,[14],"---
+,14,06.02,2024-01-23-14.md,,Syrisches Christentum Heute,14. Syrisches Christentum Heute,14,,14-Syrisches-Christentum-Heute,,,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
 ---"
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
