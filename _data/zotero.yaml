@@ -406,6 +406,29 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D472287
 
+- id: heimgartnerBrief402019a
+  citation-key: heimgartnerBrief402019a
+  collection-number: '674'
+  collection-title: Corpus scriptorum Christianorum Orientalium
+  container-title: Die Briefe 40 und 41 des ostsyrischen Patriarchen Timotheos I
+  editor:
+    - family: Heimgartner
+      given: Martin
+  event-place: Louvain
+  ISBN: 978-90-429-3866-3
+  issued:
+    - year: 2019
+  language: de
+  note: 'OCLC: 1099877681'
+  page: 3-50
+  publisher: Peeters
+  publisher-place: Louvain
+  source: Open WorldCat
+  title: Brief 40
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/09+-+Heimgartner+-+2019+-+Brief+40.pdf
+
 - id: illertDoctrinaAddai2007
   abstract: >-
     A collection of early Christian texts concerning the Abgar Letters, the
