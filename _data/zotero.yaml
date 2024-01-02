@@ -229,6 +229,32 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/08+-+Theodore+bar+Koni+-+Butts+-+2021+-+Theodore+bar+Koni%2C+Scholion%2C+Me%CC%84mra%CC%84+10i.pdf
 
+- id: dionysiusbarsalibiChapters142005
+  author:
+    - literal: Dionysius bar Ṣalībī
+  call-number: BR60.C5 BT1170 S8 t. 238-239
+  citation-key: dionysiusbarsalibiChapters142005
+  collection-number: '239'
+  collection-title: Corpus scriptorum Christianorum Orientalium 615; Scriptores Syri
+  container-title: A response to the Arabs
+  editor:
+    - family: Amar
+      given: Joseph P.
+  event-place: Louvain
+  ISBN: 978-90-429-1567-1 978-2-87723-843-4 978-90-429-1568-8 978-2-87723-844-1
+  issued:
+    - year: 2005
+  language: eng syr
+  note: 'OCLC: ocm68663548'
+  page: 1-16
+  publisher: Peeters
+  publisher-place: Louvain
+  source: Library of Congress ISBN
+  title: Chapters 1-4
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/10+-+Dionysius+bar+S%CC%A3ali%CC%84bi%CC%84+-+2005+-+Chapters+1-4.pdf
+
 - id: elkhouryTypesSymbolsChurch2018
   author:
     - family: Elkhoury
