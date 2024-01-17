@@ -205,6 +205,31 @@ references:
   type: book
   URL: http://archive.org/details/luminouseyespiri0000broc
 
+- id: budgePrefaceTakingEdessa1932
+  author:
+    - family: Budge
+      given: E. A. Wallis
+  citation-key: budgePrefaceTakingEdessa1932
+  container-title: >-
+    The chronography of Gregory Abû'l-Faraj 1225-1286, the son of Aaron, the
+    Hebrew physician commonly known as Bar Hebraeus, being the first part of his
+    political history of the world
+  contributor:
+    - family: Bedrosian
+      given: Robert
+  event-place: London
+  issued:
+    - year: 1932
+  language: eng
+  note: 'OCLC: 669696322'
+  publisher: Oxford University Press, Humphrey Milford
+  publisher-place: London
+  source: Open WorldCat
+  title: Preface and X. The Taking of Edessa from the Franks
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/19487916038/CourseNode/93668888136198/12+-+Budge+-+1932+-+Preface+and+the+Taking+of+Edessa+from+the+Franks.pdf
+
 - id: buttsTheodoreBarKoni2021a
   author:
     - family: Butts
