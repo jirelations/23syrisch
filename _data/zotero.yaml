@@ -205,6 +205,27 @@ references:
   type: book
   URL: http://archive.org/details/luminouseyespiri0000broc
 
+- id: brockThomasChristians
+  abstract: >-
+    Thomas Christians is the term often used for Christians in south-west India
+    (Malabar) belonging to Churches of Syr. tradition, since they trace their
+    origins back to St. Thomas who, according to tradition, arrived in South
+    India in 52.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 30
+  author:
+    - family: Brock
+      given: Sebastian P.
+  citation-key: brockThomasChristians
+  container-title: 'Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition'
+  publisher: Beth Mardutho, The Syriac Institute/Gorgias Press
+  source: gedsh.bethmardutho.org
+  title: Thomas Christians
+  type: article-journal
+  URL: https://gedsh.bethmardutho.org/Thomas-Christians
+
 - id: budgePrefaceTakingEdessa1932
   author:
     - family: Budge
